@@ -136,3 +136,7 @@ Big thanks to every contributor, supporter, and learner. Your work and collabora
  Or [make your first contribution](#) today
 
 > It will be improved each day as we go, so please be patient and also would appreciate more guidance and help making this a great Security Contribution project.
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=coderblee/security-project-labs@github)](https://gitads.dev/v1/ad-track?source=coderblee/security-project-labs@github)
+
+
