@@ -3,7 +3,7 @@
 Welcome to the Security Projects Lab—an Open-Source initiative designed to help cybersecurity learners and professionals gain hands-on experience through practical labs, challenges, and collaborative contributions. Whether you're preparing for the CompTIA Security+ exam (Anyone, whether preparing or not) and would love the project Labs that come with it, building your cybersecurity portfolio, or looking to sharpen your skills, this repository is for you. We can add more than just being a project centered around Security+
 
 Our goal is to create a community-driven knowledge hub where everyone can contribute, learn, and grow together. By sharing labs, walkthroughs, and security challenges, we make cybersecurity education accessible, practical, and impactful.
-
+<!-- GitAds-Verify: H4X8M1H95U32ZQJPZKQ1SZWN431U2YT7 -->
 ---
 
 ##  Mission Statement
